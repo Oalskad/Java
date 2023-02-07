@@ -22,4 +22,5 @@
 
 **6.Coupons&Deals Page**
 
-![Untitled Diagram-Page-6 drawio](https://user-images.githubusercontent.com/53299953/217242660-4b365065-3e3d-41e4-bffc-af26969783f1.png)
+![Untitled Diagram-Page-6 drawio (3)](https://user-images.githubusercontent.com/53299953/217244025-c961bb34-cd27-4c58-a7ce-9dd3045ff738.png)
+
