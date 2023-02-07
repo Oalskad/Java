@@ -1,4 +1,4 @@
-# *__1. Wire Frame__*
+# *__1.Client WireFrame__*
 **1.Home Page**
 
 ![Untitled Diagram-Page-2 drawio (1)](https://user-images.githubusercontent.com/53299953/217243181-658cc8e4-13d3-4026-8df2-2d6d102f64e5.png)
@@ -23,4 +23,22 @@
 **6.Coupons&Deals Page**
 
 ![Untitled Diagram-Page-6 drawio (3)](https://user-images.githubusercontent.com/53299953/217244025-c961bb34-cd27-4c58-a7ce-9dd3045ff738.png)
+
+# *__2.Admin WireFrame__*
+
+**1.Home Page**
+
+![Untitled Diagram-Page-7 drawio](https://user-images.githubusercontent.com/53299953/217246884-5c2e2e44-110a-43da-a748-e663c2efe926.png)
+
+**2.Admin Page**
+
+![Untitled Diagram-Page-8 drawio (1)](https://user-images.githubusercontent.com/53299953/217249423-8ab9d5dc-e0f2-400a-90b8-a245ccf8a248.png)
+
+**3.Admin Product Page**
+
+![Untitled Diagram-Page-9 drawio](https://user-images.githubusercontent.com/53299953/217248987-983616b4-965f-4d3e-b369-f145cd2bac9b.png)
+
+**3.Admin Coupons&Deals Page**
+
+![Untitled Diagram-Page-6 drawio (4)](https://user-images.githubusercontent.com/53299953/217249898-73fbb94d-358c-40fd-9291-beabf556950e.png)
 
